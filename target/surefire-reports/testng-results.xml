@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="46" started-at="2020-06-30T12:07:59 IST" finished-at="2020-06-30T12:08:00 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="46" started-at="2020-06-30T12:07:59 IST" finished-at="2020-06-30T12:08:00 IST">
+      <class name="SrinivasMavenProject.RESTAPITest">
+        <test-method status="PASS" signature="IOSAppTest()[pri:0, instance:SrinivasMavenProject.RESTAPITest@60c6f5b]" name="IOSAppTest" duration-ms="0" started-at="2020-06-30T12:07:59 IST" finished-at="2020-06-30T12:07:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSAppTest -->
+        <test-method status="PASS" signature="NativeAppAndriod()[pri:0, instance:SrinivasMavenProject.RESTAPITest@60c6f5b]" name="NativeAppAndriod" duration-ms="0" started-at="2020-06-30T12:07:59 IST" finished-at="2020-06-30T12:07:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndriod -->
+      </class> <!-- SrinivasMavenProject.RESTAPITest -->
+      <class name="SrinivasMavenProject.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:SrinivasMavenProject.SeleniumTest@2038ae61]" name="BrowserAutomation" duration-ms="0" started-at="2020-06-30T12:07:59 IST" finished-at="2020-06-30T12:07:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementUi()[pri:0, instance:SrinivasMavenProject.SeleniumTest@2038ae61]" name="elementUi" duration-ms="0" started-at="2020-06-30T12:08:00 IST" finished-at="2020-06-30T12:08:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUi -->
+      </class> <!-- SrinivasMavenProject.SeleniumTest -->
+      <class name="SrinivasMavenProject.AppiumTest">
+        <test-method status="PASS" signature="PostJIRA()[pri:0, instance:SrinivasMavenProject.AppiumTest@1e127982]" name="PostJIRA" duration-ms="5" started-at="2020-06-30T12:07:59 IST" finished-at="2020-06-30T12:07:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJIRA -->
+        <test-method status="PASS" signature="deleteTwiter()[pri:0, instance:SrinivasMavenProject.AppiumTest@1e127982]" name="deleteTwiter" duration-ms="1" started-at="2020-06-30T12:07:59 IST" finished-at="2020-06-30T12:07:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwiter -->
+      </class> <!-- SrinivasMavenProject.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
